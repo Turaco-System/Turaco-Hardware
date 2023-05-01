@@ -10,5 +10,3 @@ This is just an informal list of things we need to build to get Turaco up and ru
   [Here](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797) is a list of ANSI escape codes.
 3. Full suite of default interrupt handlers baked into each program as part of the core library
 4. Core system library with ready-made functions for talking to the VERA and filesystem
-
-
