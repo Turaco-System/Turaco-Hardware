@@ -1,4 +1,0 @@
-* ANSI Console for Turaco
-** What it needs to do:
-  1 Support the "important" ANSI codes: cursor movement and color control.
-  2 Support "raw" and "cooked" I/O.
