@@ -1,6 +1,6 @@
 # Turaco: A 16-Bit Open Source Games Console and Microcomputer
 
-Turaco is a hybrid of an 80s style microcomputer, and a 16-bit games console. It is an open hardware system designed for retrocomputing, featuring an 8MHz W65C816S compatible processor (a 16-bit extention of the venerable 65C02 architecture), 512KB of built-in static RAM, the VERA graphcis system, dual expansion cartridge slots, SNES compatible gamepad ports, USB keyboard support, and a flexible development environment based on the C99 programming language implemented in the Calypsi cross-compiler for Windows, macOS, and Linux/BSD.
+Turaco is a hybrid of an 80s style microcomputer, and a 16-bit games console. It is an open hardware system designed for retrocomputing, featuring an 8MHz W65C816S compatible processor (a 16-bit extention of the venerable 65C02 architecture), 512KB of built-in static RAM, the VERA graphics system, dual expansion cartridge slots, SNES compatible gamepad ports, USB keyboard support, and a flexible development environment based on the C99 programming language implemented in the Calypsi cross-compiler for Windows, macOS, and Linux/BSD.
 
 Turaco is in the prototype stage of development, with an emulator also in progress. The goal is to produce a reference design and implementation which anyone can use to manufacture and sell Turaco systems.
 
