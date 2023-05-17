@@ -4,7 +4,7 @@ Turaco is a hybrid of an 80s style microcomputer, and a 16-bit games console. It
 
 Turaco is in the prototype stage of development, with an emulator also in progress. The goal is to produce a reference design and implementation which anyone can use to manufacture and sell Turaco systems.
 
-# FAQ
+## FAQ
 
 Q: What is Turaco?
 A: Turaco is a 16-bit programmable games console and microcomputer specifically designed for retro game development.
