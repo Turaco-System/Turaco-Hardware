@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 3e138f53-2b40-4567-8b55-55b313d6b90a)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "{JTAG•ZDI}" (shape input) (at 172.72 76.2 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 3c798f98-a169-481c-8381-5a1d34204928)
+  )
+  (hierarchical_label "{USBC}" (shape input) (at 110.49 76.2 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 5c0a15df-85bf-45df-ac4b-1be1cf1eac9a)
+  )
+)

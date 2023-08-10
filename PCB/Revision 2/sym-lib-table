@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Turaco")(type "KiCad")(uri "${KIPRJMOD}/Turaco.kicad_sym")(options "")(descr ""))
+)

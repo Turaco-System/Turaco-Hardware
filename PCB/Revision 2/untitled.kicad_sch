@@ -1,0 +1,12 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 5e536b05-ef84-4736-8231-99952fafcf78)
+
+  (paper "USLetter")
+
+  (lib_symbols
+  )
+
+  (bus_alias "Digital Audio" (members "SYSCLK" "BCLK" "LRCK" "AUDIO_DATA"))
+  (bus_alias "Analog Audio" (members "LEFT" "RIGHT"))
+)
