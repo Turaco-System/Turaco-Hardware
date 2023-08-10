@@ -1,0 +1,3 @@
+[submodule "vera-module"]
+	path = vera-module
+	url = https://github.com/swetland/vera-module.git
