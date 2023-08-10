@@ -10,7 +10,7 @@ The schematic is awaiting peer review, before being routed for fabrication and p
 
 Q: What is Turaco?
 
-A: Turaco is a 16-bit programmable games console and microcomputer specifically designed for retro game development.
+A: Turaco is an 8-bit programmable games console and microcomputer specifically designed for retro game development, with maximal performance and minimum price.
 
 ----
 
