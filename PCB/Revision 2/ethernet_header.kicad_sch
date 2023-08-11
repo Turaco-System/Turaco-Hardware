@@ -794,7 +794,7 @@
   )
 
   (symbol (lib_id "Turaco:Conn_02x10_Odd_Even") (at 142.24 92.71 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 0e9320ee-77c1-4844-989d-362f6b2bcf67)
     (property "Reference" "J4" (at 142.24 80.01 0)
       (effects (font (size 1.27 1.27)))
