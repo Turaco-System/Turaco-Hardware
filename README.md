@@ -1,4 +1,4 @@
-# Turaco: A 16-Bit Open Source Games Console and Microcomputer
+# Turaco: An 8-Bit Open Source Games Console and Microcomputer
 
 Turaco is a hybrid of an 80s style microcomputer, and an 8-bit games console. It is an open hardware system designed for retrocomputing, featuring a 50MHz eZ80 CPU, 1MB of built-in static RAM, the VERA graphics system, an expansion cartridge slot, SNES compatible gamepad ports, USB keyboard support, and a flexible development environment based on the C programming language implemented in the z88dk toolchain for Windows, macOS, and Linux/BSD.
 
