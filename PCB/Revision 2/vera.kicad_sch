@@ -697,6 +697,8 @@
     (uuid e8ecee93-377d-4516-9dd6-bd75825130b8)
   )
 
+  (no_connect (at 116.84 96.52) (uuid 82914859-8b42-4b21-9edc-6e819e96f74e))
+
   (bus_entry (at 236.22 44.45) (size -2.54 2.54)
     (stroke (width 0) (type default))
     (uuid 2379f2af-0ca6-4578-a41c-dbd7dad0af09)
@@ -1176,10 +1178,6 @@
     (uuid 614841e0-da96-4ff8-9870-948b3da0d531)
   )
 
-  (wire (pts (xy 99.06 96.52) (xy 116.84 96.52))
-    (stroke (width 0) (type default))
-    (uuid 625334ad-901f-4125-9731-176c322b152a)
-  )
   (wire (pts (xy 160.02 91.44) (xy 182.88 91.44))
     (stroke (width 0) (type default))
     (uuid 68e5ca51-4b6e-4655-a60c-f65cc957a237)
@@ -1899,10 +1897,6 @@
   (label "~{CSWR}" (at 181.61 86.36 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 8a48c66d-6046-43e6-aa4c-fc1cf3f7a7f9)
-  )
-  (label "CDONE" (at 99.06 96.52 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 8a7e7d73-5948-4e3a-8888-9a1333052fb5)
   )
   (label "B0" (at 220.98 77.47 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
